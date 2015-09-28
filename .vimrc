@@ -4,7 +4,7 @@ syntax enable
 
 set background=dark
 set t_Co=256
-colorscheme gruvbox 
+colorscheme elda 
 
 filetype plugin on
 filetype indent on

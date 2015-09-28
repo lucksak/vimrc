@@ -7,3 +7,30 @@
 [submodule ".vim/bundle/vim-fugitive"]
 	path = .vim/bundle/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive
+[submodule "256-grayvim"]
+	path = 256-grayvim
+	url = https://github.com/vim-scripts/256-grayvim
+[submodule "mustang-vim"]
+	path = mustang-vim
+	url = https://github.com/croaker/mustang-vim
+[submodule ".vim/bundle/256-grayvim"]
+	path = .vim/bundle/256-grayvim
+	url = https://github.com/vim-scripts/256-grayvim
+[submodule ".vim/bundle/mustang-vim"]
+	path = .vim/bundle/mustang-vim
+	url = https://github.com/croaker/mustang-vim
+[submodule ".vim/bundle/vim"]
+	path = .vim/bundle/vim
+	url = https://github.com/lxmzhv/vim
+[submodule ".vim/bundle/Elda"]
+	path = .vim/bundle/Elda
+	url = https://github.com/vim-scripts/Elda
+[submodule ".vim/bundle/vim-getafe"]
+	path = .vim/bundle/vim-getafe
+	url = https://github.com/larssmit/vim-getafe
+[submodule ".vim/bundle/vim-monokai"]
+	path = .vim/bundle/vim-monokai
+	url = https://github.com/sickill/vim-monokai
+[submodule ".vim/bundle/Apprentice"]
+	path = .vim/bundle/Apprentice
+	url = https://github.com/romainl/Apprentice
